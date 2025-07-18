@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 from colorama import Fore as FORE, Back as BACK, Style as STYLE, init
 init()
 x = True
