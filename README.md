@@ -1,6 +1,5 @@
 # 2x2-Rubik-s-Cube-Solver---Adi-R
-Find a white corner on any part of your cube and put it at the top left corner of your front face
-Input the faces as follows: suppose the Front is W|B, you would input it into Front as W B Y R, no quotations, no commas, only spaces separating the colors.
+Input the faces as follows: suppose the Front is W|B, you would input it into Front as WBYR, no spaces, no commas.
                                                  Y|R
 For inputing the faces W=White, B=Blue, R=Red, O=Orange, G=Green, Y=Yellow
 You would follow the same pattern for the other faces too, for example, entering Above would be done by tilting the cube downwards so that Above becomes the Front and then following the same format for Front
